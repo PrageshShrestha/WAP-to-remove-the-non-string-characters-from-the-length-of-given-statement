@@ -1,0 +1,1 @@
+# WAP-to-remove-the-non-string-characters-from-the-length-of-given-statement
